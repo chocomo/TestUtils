@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, TestUtils!</string>
+    <string name="app_name">TestUtils</string>
+    
+    <string name="no_content">No Content!</string>
+    
+    <!-- For WakeLock -->
+    <string name="lock">Lock</string>
+    <string name="unlock">Unlock</string>
+    <string name="CpuFreqMin">CpuFreqMin</string>
+    <string name="CpuFreqMax">CpuFreqMax</string>
+    <string name="CpuNumMin">CpuNumMin</string>
+    <string name="CpuNumMax">CpuNumMax</string>
+   	<string name="CpuPerf">CpuPerf</string>
+   	
+   	<!-- For Nfc Control -->
+   	<string name="NfcControl">NfcControl</string>
+   	<string name="on">On</string>
+   	<string name="off">Off</string>
+   	<string name="nfc_lock">Lock</string>
+   	<string name="nfc_unlock">Unlock</string>
+   	<string name="nfc_test1">Test1</string>
+   	<string name="nfc_test2">Test2</string>
+</resources>
